@@ -1,5 +1,5 @@
 
-//Tranformer du code JavaScript en code TypeScript
+//Transformer du code JavaScript en code TypeScript
 
 function hello (name:string) {
     console.log("Hello " + name);
